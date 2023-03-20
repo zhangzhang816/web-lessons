@@ -2,6 +2,9 @@
     color: maroon;
     font-family: Freestyle Script;
   }
+  em {
+    font-family: Arial;
+  }
   h1,h2 {
     font-family: Arial;
     color: grey;
@@ -10,3 +13,14 @@
     border-bottom: 1px solid black;
 
   }
+  html {
+  font-size: 16px; /* 设置根元素字体大小 */ 
+}
+
+h1 {
+  font-size: 10vw; /* 相对于根元素字体大小的 2 倍 */
+}
+
+p {
+  font-size: 1rem;
+}
