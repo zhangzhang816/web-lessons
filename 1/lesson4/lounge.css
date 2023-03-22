@@ -1,6 +1,11 @@
   p {
     color: maroon;
     font-family: Freestyle Script;
+    
+  }
+  a {
+  text-decoration:none;
+  color: rgb(173,213,162);
   }
   em {
     font-family: Arial;
@@ -23,4 +28,16 @@ h1 {
 
 p {
   font-size: 1rem;
+}
+
+body{
+	color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+  color: rgb(164,202,182);
+  color: rgb(173,213,162);
+  color: #ADD5A2;
+  background-color:mediumseagreen;
 }
