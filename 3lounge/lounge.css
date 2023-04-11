@@ -50,7 +50,7 @@ h2 {
   border-width: thin;
   border-style: solid;
   border-color:#007e7e ;
-  
+  width: 200px;
   padding-right:20px;
   padding-bottom:20px;
   padding-left:20px;
@@ -60,6 +60,7 @@ h2 {
   background-repeat: repeat-x;
   text-align: center;
   line-height: 1;
+  float: right;
 }
   .elixirs h2 {
 color: black;
@@ -96,3 +97,4 @@ margin-top: 30px;
     background-color:#f88396;
     color: #0d5353;
   }
+
