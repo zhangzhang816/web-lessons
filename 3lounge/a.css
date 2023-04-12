@@ -1,8 +1,36 @@
 
-  h1{
-  color: rgb(0, 255, 85);
+
+
+  .right {
+    float: right;
   }
 
-  body h1{
-  color: brown;
+  div.block {
+    width: 45vw;
+    height: 20vh;
+    border: 2px solid black;
   }
+
+  .top {
+    margin-bottom: 10px;
+  }
+
+  .bottom {
+    margin-top: 20px;
+  }
+
+  .ruler {
+    height: 20px;
+  }
+
+    .a{
+    width: 45vw;
+    height: 20vh;
+    background-color: blueviolet;
+    border: 30px solid black;
+    }
+    .b{
+    width: 20vw;
+    height: 10vh;
+    background-color:brown;
+    }
