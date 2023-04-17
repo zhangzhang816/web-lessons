@@ -34,3 +34,8 @@
     height: 10vh;
     background-color:brown;
     }
+
+  .float-block {
+    width: 200px;
+    float: right;
+}
