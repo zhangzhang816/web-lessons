@@ -15,12 +15,11 @@ body {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
-  margin:           0px 10px 10px 10px;
-  height: 450px;
+  margin:           0px 330px 10px 10px;
 }
 
 .sidebar {
-  /* background:       #efe5d0 url(images/background.gif) bottom right; */
+  background:       #efe5d0 url(images/background.gif) bottom right;
   font-size:        105%;
   padding:          15px;
   margin:           0px 10px 10px 10px;
@@ -35,6 +34,7 @@ body {
   padding:          15px;
   margin:           10px;
   font-size:        90%;
+  clear: right;
 }
 
 h1 {
@@ -58,4 +58,8 @@ a:visited {
   color:            #675c47;
   text-decoration:  none;
   border-bottom:    thin dotted #675c47;
+}
+
+.a{
+width: 800px;
 }
