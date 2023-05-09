@@ -1,0 +1,13 @@
+.bc
+  {
+  background-image:url(img/bc.png) ;
+  line-height: 30em;
+  /* padding: 0px;
+  margin:0 ; */
+  } 
+
+body
+{
+  margin:0 ;
+  font-size: 87.5%;
+}
