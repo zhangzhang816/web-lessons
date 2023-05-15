@@ -10,7 +10,7 @@ body {
 }
 
 
-.header {
+header.header {
   background-color: #675c47;
   margin:           0px;
   height:           108px;
@@ -25,14 +25,14 @@ div.tableRow{
   display: table-row;
 }
 
-.drinks {
+section.drinks {
     display: table-cell;
     vertical-align: top;
     background-color: #efe5d0;
     padding: 15px;
 }
 
-.main {
+section.main {
   background:       #efe5d0 url(images/background.gif) top left;
   font-size:        105%;
   padding:          15px;
